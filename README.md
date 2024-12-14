@@ -1,6 +1,6 @@
 # CalculatorApp
 
-### Step-by-Step Explanation of What I’ve Learned While Creating This Project:
+### Step-by-Step Explanation by tairqaldy of What I’ve Learned While Creating This Project:
 
 1. Installed Expo CLI globally:
    ```bash
